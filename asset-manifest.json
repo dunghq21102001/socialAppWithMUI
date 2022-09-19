@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socialAppWithMUI/static/css/main.754ebb54.css",
+    "main.js": "/socialAppWithMUI/static/js/main.3f6d42c7.js",
+    "index.html": "/socialAppWithMUI/index.html",
+    "main.754ebb54.css.map": "/socialAppWithMUI/static/css/main.754ebb54.css.map",
+    "main.3f6d42c7.js.map": "/socialAppWithMUI/static/js/main.3f6d42c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.3f6d42c7.js"
+  ]
+}
